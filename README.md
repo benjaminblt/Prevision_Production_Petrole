@@ -36,7 +36,6 @@ Le second projet prolonge cette analyse par la sélection d’un modèle ARIMA e
 - [Limites](#limites)
 - [Pistes d’amélioration](#pistes-damélioration)
 - [Auteur](#auteur)
-- [Avertissement](#avertissement)
 
 ---
 
