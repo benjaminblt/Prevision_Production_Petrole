@@ -1,7 +1,7 @@
 # Production de pétrole en Thaïlande : stationnarité et prévisions ARIMA
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/assets/pétrole.png"
+  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/assets/petrole.png"
        alt="Production de pétrole - Analyse de données"
        width="100%">
 </p>
